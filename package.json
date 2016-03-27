@@ -1,6 +1,6 @@
 {
   "name": "angular-bro-app",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Angular broccoli plugin and compilation routine",
   "main": "lib/AngularApp.js",
   "scripts": {
@@ -39,7 +39,7 @@
     "broccoli-jshint": "^2.1.0",
     "broccoli-karma-plugin": "^0.1.1",
     "broccoli-less-single": "^0.6.0",
-    "broccoli-livereload-middleware": "^0.1.0",
+    "broccoli-livereload-middleware": "0.1.1",
     "broccoli-merge-trees": "^1.1.1",
     "broccoli-ng-annotate": "^2.0.0",
     "broccoli-string-replace": "^0.1.1",
