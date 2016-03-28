@@ -1,10 +1,10 @@
 {
   "name": "angular-bro-app",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Angular broccoli plugin and compilation routine",
   "main": "lib/AngularApp.js",
   "scripts": {
-    "test": "jshint lib/**/*.js && jscs lib/**/*.js"
+    "test": "jshint lib/*.js && jscs lib/*.js"
   },
   "repository": {
     "type": "git",
