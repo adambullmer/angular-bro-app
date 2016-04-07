@@ -1,6 +1,6 @@
 {
   "name": "angular-bro-app",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "description": "Angular broccoli plugin and compilation routine",
   "main": "lib/angular-app.js",
   "scripts": {
@@ -28,6 +28,7 @@
     "amd-name-resolver": "0.0.5",
     "broccoli-amd-loader": "^0.1.0",
     "broccoli-angular-templates-cache": "^1.0.3",
+    "broccoli-asset-rev": "^2.4.2",
     "broccoli-babel-transpiler": "^5.5.0",
     "broccoli-concat": "^2.2.0",
     "broccoli-csslint": "^1.0.0",
