@@ -1,6 +1,6 @@
 {
   "name": "angular-bro-app",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Angular broccoli plugin and compilation routine",
   "main": "lib/angular-app.js",
   "scripts": {
@@ -50,6 +50,7 @@
     "karma": "^0.13.22",
     "karma-coverage": "^0.5.5",
     "karma-jasmine": "^0.3.8",
+    "karma-jasmine-html-reporter": "^0.2.0",
     "karma-phantomjs-launcher": "^1.0.0",
     "lodash": "^4.6.1",
     "phantomjs-prebuilt": "^2.1.6"
