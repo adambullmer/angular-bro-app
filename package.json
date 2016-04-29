@@ -1,6 +1,6 @@
 {
   "name": "angular-bro-app",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "description": "Angular broccoli plugin and compilation routine",
   "main": "lib/angular-app.js",
   "scripts": {
@@ -37,7 +37,7 @@
     "broccoli-htmlmin": "^2.1.0",
     "broccoli-imagemin": "^0.2.1",
     "broccoli-inject-livereload": "^0.2.0",
-    "broccoli-jscs": "^1.4.0",
+    "broccoli-jscs": "^2.0.0",
     "broccoli-jshint": "^2.1.0",
     "broccoli-karma-plugin": "^0.1.1",
     "broccoli-less-single": "^0.6.0",
@@ -46,7 +46,7 @@
     "broccoli-ng-annotate": "^2.0.0",
     "broccoli-uglify-js": "^0.1.3",
     "broccoli-wrap": "0.0.2",
-    "chalk": "^1.1.1",
+    "chalk": "^1.1.3",
     "express": "^4.13.4",
     "jasmine-core": "^2.4.1",
     "karma": "^0.13.22",
@@ -54,11 +54,13 @@
     "karma-jasmine": "^0.3.8",
     "karma-jasmine-html-reporter": "^0.2.0",
     "karma-phantomjs-launcher": "^1.0.0",
-    "lodash": "^4.6.1",
-    "phantomjs-prebuilt": "^2.1.6"
+    "lodash": "^4.6.1"
   },
   "devDependencies": {
     "jscs": "^2.11.0",
     "jshint": "^2.9.1"
+  },
+  "peerDependencies": {
+    "phantomjs-prebuilt": "^2.1.6"
   }
 }
