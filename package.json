@@ -1,6 +1,6 @@
 {
   "name": "angular-bro-app",
-  "version": "0.8.5",
+  "version": "0.8.6",
   "description": "Angular broccoli plugin and compilation routine",
   "main": "lib/angular-app.js",
   "scripts": {
