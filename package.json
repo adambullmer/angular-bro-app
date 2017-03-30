@@ -4,7 +4,7 @@
   "description": "Angular broccoli plugin and compilation routine",
   "main": "lib/angular-app.js",
   "scripts": {
-    "test": "jshint lib/*.js && jscs lib/*.js"
+    "test": "eslint lib/*.js"
   },
   "repository": {
     "type": "git",
@@ -57,8 +57,7 @@
     "lodash": "^4.6.1"
   },
   "devDependencies": {
-    "jscs": "^2.11.0",
-    "jshint": "^2.9.1"
+    "eslint": "^3.18.0"
   },
   "peerDependencies": {
     "phantomjs-prebuilt": "^2.1.6"
