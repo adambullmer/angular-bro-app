@@ -10,4 +10,5 @@ RUN apk update && \
         nodejs \
         nodejs-npm \
     && \
-    rm -rf /var/cache/apk/*
+    rm -rf /var/cache/apk/* && \
+    npm install -g npm@^4
