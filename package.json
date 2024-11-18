@@ -49,6 +49,7 @@
     "broccoli-livereload-middleware": "^0.2.0",
     "broccoli-merge-trees": "^1.1.1",
     "broccoli-plugin-karma": "^1.0.0",
+    "broccoli-stew": "^3.0.0",
     "broccoli-uglify-js": "^0.1.3",
     "chalk": "^1.1.3",
     "express": "^4.13.4",
