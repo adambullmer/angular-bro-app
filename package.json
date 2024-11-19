@@ -42,7 +42,7 @@
     "broccoli-htmlmin": "^2.1.0",
     "broccoli-imagemin": "^2.0.1",
     "broccoli-inject-livereload": "^0.2.0",
-    "broccoli-less-single": "^0.6.0",
+    "broccoli-less-single": "^2.0.1",
     "broccoli-lint-eslint": "^3.2.1",
     "broccoli-livereload-middleware": "^0.2.0",
     "broccoli-merge-trees": "^1.1.1",
